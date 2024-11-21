@@ -1,2 +1,2 @@
 # Price-Scraper
-A Price Tracker Using Python
+A Simple Price Tracker Using Python
